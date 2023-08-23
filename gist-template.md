@@ -61,4 +61,8 @@ Character escapes allow us to match characters with special meanings in regex. I
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Cristina is a software engineering student at the University of Miami. She currently resides in Miami, FL, where she enjoys pursuing her passion for coding and web development.
+
+If you have additional questions, please visit the link below to reach Cristina via GitHub.
+
+https://github.com/calzu0821
